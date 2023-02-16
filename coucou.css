@@ -1,0 +1,35 @@
+.rouge{
+
+
+    color: red;
+}
+
+
+
+.ligne{
+
+    text-decoration: underline;
+
+}
+
+
+
+img{
+
+    width: 350px;
+}
+
+
+
+.boite{
+    border: 3px solid orange;
+    height: 627px;
+    width: 350px;
+
+}
+
+
+.boite2{
+
+    display: flex;
+}
